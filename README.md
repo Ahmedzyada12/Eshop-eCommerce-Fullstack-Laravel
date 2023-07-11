@@ -1,66 +1,31 @@
+# Eshop-eCommerce-Fullstack-Laravel
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Fullstack eCommerce with Laravel and MySQL
+![1](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/e9a2a7e4-b47d-49a3-a09e-0e9849134fa1)
+![2](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/f0555a19-f4c4-48ba-b4d5-0d2e5b77b065)
+![3](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/5ee2ccb8-db4b-46cf-8f38-73894a6f29b7)
+![4](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/994e94a9-1bfc-4683-aa03-5baedab715d0)
+![5](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/5753c036-7569-42f5-95c8-f02a31813356)
+![6](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/31ccb772-a717-4288-b354-2cc57228bb0d)
+![9](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/c45eaea0-b827-438d-b095-094378007f14)
+![10](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/6f23acc1-e0aa-44a2-9897-5c675ecde807)
+![7](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/34fe991f-6114-44fd-9ae2-bd173c234f10)
+![8](https://github.com/Ahmedzyada12/Eshop-eCommerce-Fullstack-Laravel/assets/126186881/b4634fd7-bfa7-4b7f-9a0c-9d9b80585d41)
 
-## About Laravel
+# Project Description
+Fullstack eCommerce app with Laravel and MySQL.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Role Based Authorization Login System.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Dashboard Section for Employees and Admins.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+customers can make order after register
 
-## Learning Laravel
+Admin  can perform CRUD (Create, Read, Edit or Remove Products) Operations from Admin Dasboard. They can add, view, edit or delete users, Product categories and Products. Admin  can also access the SettingS section from which they can edit app related data
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Authorized Admins can access information about customers and reservations.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
